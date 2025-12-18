@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> Keylogger (By Ewedairo Taofeek)</title>
+    <title> Keylogger (By Ewedairo Taofeek) </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -64,13 +64,13 @@
 <body>
 
 <div class="container">
-    <h1> : Simple Keylogger</h1>
+    <h1>Stroke your key </h1>
 
     <div class="notice">
-        ⚠️ This is simple key logger created by Taofeek 
+        ⚠️ Lodge your worries here ⚠️
     </div>
 
-    <textarea id="inputArea" placeholder="Type here... keystrokes will be logged"></textarea>
+    <textarea id="inputArea" placeholder="What can i help you with"></textarea>
 
     <button onclick="downloadLog()">Save Keystroke Log</button>
 </div>
